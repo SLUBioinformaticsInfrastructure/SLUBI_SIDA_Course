@@ -1,0 +1,1 @@
+Sitemap: https://SLUBioinformaticsInfrastructure.github.io/SLUBI_SIDA_Course/sitemap.xml
